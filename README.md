@@ -1,9 +1,9 @@
 ### Hey y'all! 👋
 I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages.
-- 😄 Pronouns: he, him
-- 🔭 I’m currently working on establishing more of a web presence and updating my online portfolio & webpages.
-- 🌱 I’m currently learning Vue.js, Rails, and Kubernetes
-- 📫 How to reach me: https://joe-sharp.com/#contact
+- 😄 : Pronouns: he, him
+- 🔭 : I’m currently working on establishing more of a web presence and updating my online portfolio & webpages.
+- 🌱 : I’m currently learning Vue.js, Rails, and Kubernetes
+- 📫 : How to reach me: https://joe-sharp.com/#contact
 
 <!--
 **joe-sharp/joe-sharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
