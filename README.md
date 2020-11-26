@@ -3,6 +3,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 - 😄 : Pronouns: he, him
 - 🔭 : I’m currently working on establishing more of a web presence and updating my online portfolio & webpages.
 - 🌱 : I’m currently learning Vue.js, Rails, and Kubernetes
+- 🌎 : Personal Website: https://joe-sharp.com
 - 📫 : How to reach me: <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A"> Email me </a> or follow/connect with me on <a href="https://www.linkedin.com/in/joesharp13/">LinkedIn®</a>
 
 <!--
