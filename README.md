@@ -24,6 +24,23 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 
 <hr/>
 
+<p align="center">
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-red?logo=ruby&logoColor=white&style=flat" />
+  <img alt="Rails" src="https://img.shields.io/badge/Rails-orange?logo=ruby-on-rails&logoColor=white&style=flat" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-yellow?logo=html5&logoColor=white&style=flat" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-green?logo=css3&logoColor=white&style=flat" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-blue?logo=sass&logoColor=white&style=flat" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-blueviolet?logo=javascript&logoColor=white&style=flat" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-violet?logo=node.js&logoColor=white&style=flat" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-inactive?logo=python&logoColor=white&style=flat" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-red?logo=gnu-bash&logoColor=white&style=flat" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-orange?logo=arduino&logoColor=white&style=flat" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-yellow?logo=git&logoColor=white&style=flat" />
+  <img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-green?logo=sublime-text&logoColor=white&style=flat" />
+</p>
+
+<hr/>
+
 ![All Stats](https://github-readme-stats.vercel.app/api?username=joe-sharp&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&theme=dark&title_color=007bff)
 
