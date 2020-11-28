@@ -6,8 +6,6 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 - 🌎 : Personal Website: https://joe-sharp.com
 - 📫 : How to reach me: <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A"> Email me </a> or use any of the links below.
 
-<hr/>
-
 <p align="center">
 <a href="https://github.com/joe-sharp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
   &nbsp;
