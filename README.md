@@ -1,4 +1,4 @@
-### Hey y'all! 👋
+### Hey y'all! 👋🏼<p><img align="right" src="https://github.com/joe-sharp/joe-sharp/blob/main/joe-wave.png" alt=""/></p>
 I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages.
 - 😄 : Pronouns: he, him
 - 🔭 : I’m currently working on establishing more of a web presence and updating my online portfolio & webpages.
