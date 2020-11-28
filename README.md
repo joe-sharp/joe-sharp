@@ -10,10 +10,11 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 
 <p align="center">
 <a href="https://github.com/joe-sharp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
-<a href="https://joe-sharp.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="github" height="30" width="30" /></a>
-<a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://www.reddit.com/u/joe-sharp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://joe-sharp.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="netlify" height="30" width="30" /></a>
+<a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
+<a href="https://www.reddit.com/u/joe-sharp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="reddit" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/joesharp13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://teamtreehouse.com/joesharp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/treehouse.svg" alt="treehouse" height="30" width="30" /></a>
 </p>
 
 <hr/>
