@@ -27,8 +27,8 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-red?logo=ruby&logoColor=white&style=flat" />
   <img alt="Rails" src="https://img.shields.io/badge/Rails-orange?logo=ruby-on-rails&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-yellow?logo=html5&logoColor=white&style=flat" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-green?logo=css3&logoColor=white&style=flat" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-blue?logo=sass&logoColor=white&style=flat" />
+  <img alt="CSS/Sass" src="https://img.shields.io/badge/CSS&#47;Sass-green?logo=css3&logoColor=white&style=flat" />
+  <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-blue?logo=jekyll&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-blueviolet?logo=javascript&logoColor=white&style=flat" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-violet?logo=node.js&logoColor=white&style=flat" />
   <img alt="Python" src="https://img.shields.io/badge/Python-inactive?logo=python&logoColor=white&style=flat" />
