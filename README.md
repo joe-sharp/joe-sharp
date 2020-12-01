@@ -1,9 +1,9 @@
 ### Hey y'all! 👋🏼<p><img align="right" src="https://github.com/joe-sharp/joe-sharp/blob/main/joe-wave.png" alt=""/></p>
 I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages.
-- 😄 : Pronouns: he, him
+- 😄 : My Pronouns are 'he' and 'him'
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
 - 🔭 : I’m currently working on establishing more of a web presence and updating my online portfolio & webpages.
-- 🌱 : I’m currently learning Vue.js, Rails, and Kubernetes
+- 🌱 : I’m currently learning Vue.js, Rails, Jekyll, and Kubernetes
 - 🌎 : Personal Website: https://joe-sharp.com
 - 📫 : How to reach me: <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A"> Email me </a> or use any of the links below.
 
@@ -36,6 +36,18 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-orange?logo=arduino&logoColor=white&style=flat" />
   <img alt="Git" src="https://img.shields.io/badge/Git-yellow?logo=git&logoColor=white&style=flat" />
   <img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-green?logo=sublime-text&logoColor=white&style=flat" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgresSQL-blue?logo=postgresql&logoColor=white&style=flat" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-blueviolet?logo=jquery&logoColor=white&style=flat" />
+  <img alt="Selenium/Capybara" src="https://img.shields.io/badge/Selenium&#47;Capybara-violet?logo=selenium&logoColor=white&style=flat" />
+  <img alt="Sikuli" src="https://img.shields.io/badge/Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-red?logo=netlify&logoColor=white&style=flat" />
+  <img alt="Apple" src="https://img.shields.io/badge/Apple-orange?logo=apple&logoColor=white&style=flat" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-yellow?logo=windows&logoColor=white&style=flat" />
+  <img alt="BSD/Darwin" src="https://img.shields.io/badge/BSD&#47Darwin;-green?logo=bsd&logoColor=white&style=flat" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white&style=flat" />
+  <img alt="AutoHotKey" src="https://img.shields.io/badge/AutoHotKey-blueviolet?logo=autohotkey&logoColor=white&style=flat" />
+  <img alt="Applescript" src="https://img.shields.io/badge/Applescript-violet?logo=apple&logoColor=white&style=flat" />
+  <img alt="XML/JSON/YAML" src="https://img.shields.io/badge/XML&#47;JSON&#47;YAML-inactive?logo=json&logoColor=white&style=flat" />
 </p>
 
 <hr/>
