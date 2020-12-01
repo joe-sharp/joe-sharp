@@ -47,7 +47,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Linux" src="https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white&style=flat" />
   <img alt="AutoHotKey" src="https://img.shields.io/badge/AutoHotKey-blueviolet?logo=autohotkey&logoColor=white&style=flat" />
   <img alt="Applescript" src="https://img.shields.io/badge/Applescript-violet?logo=apple&logoColor=white&style=flat" />
-  <img alt="XML/JSON/YAML" src="https://img.shields.io/badge/XML&#47;JSON&#47;YAML-inactive?logo=json&logoColor=white&style=flat" />
+  <img alt="JSON/XML/YAML" src="https://img.shields.io/badge/JSON&#47;XML&#47;YAML-inactive?logo=json&logoColor=white&style=flat" />
 </p>
 
 <hr/>
