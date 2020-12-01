@@ -38,12 +38,12 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-green?logo=sublime-text&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgresSQL-blue?logo=postgresql&logoColor=white&style=flat" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-blueviolet?logo=jquery&logoColor=white&style=flat" />
-  <img alt="Selenium/Capybara" src="https://img.shields.io/badge/Selenium&#47;Capybara-violet?logo=selenium&logoColor=white&style=flat" />
+  <img alt="Capybara/Selenium" src="https://img.shields.io/badge/Capybara&#47;Selenium-violet?logo=selenium&logoColor=white&style=flat" />
   <img alt="Sikuli" src="https://img.shields.io/badge/Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-red?logo=netlify&logoColor=white&style=flat" />
   <img alt="Apple" src="https://img.shields.io/badge/Apple-orange?logo=apple&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-yellow?logo=windows&logoColor=white&style=flat" />
-  <img alt="BSD/Darwin" src="https://img.shields.io/badge/BSD&#47Darwin;-green?logo=bsd&logoColor=white&style=flat" />
+  <img alt="BSD/Darwin" src="https://img.shields.io/badge/BSD&#47;Darwin-green?logo=bsd&logoColor=white&style=flat" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white&style=flat" />
   <img alt="AutoHotKey" src="https://img.shields.io/badge/AutoHotKey-blueviolet?logo=autohotkey&logoColor=white&style=flat" />
   <img alt="Applescript" src="https://img.shields.io/badge/Applescript-violet?logo=apple&logoColor=white&style=flat" />
