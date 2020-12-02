@@ -43,7 +43,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-red?logo=netlify&logoColor=white&style=flat" />
   <img alt="OS X" src="https://img.shields.io/badge/OS%20X-orange?logo=apple&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-yellow?logo=windows&logoColor=white&style=flat" />
-  <img alt="BSD/Darwin" src="https://img.shields.io/badge/BSD&#47;Darwin-green?logo=bsd&logoColor=white&style=flat" />
+  <img alt="BSD/Darwin" src="https://img.shields.io/badge/BSD&#47;Darwin-green?logo=freebsd&logoColor=white&style=flat" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white&style=flat" />
   <img alt="AutoHotKey" src="https://img.shields.io/badge/AutoHotKey-blueviolet?logo=autohotkey&logoColor=white&style=flat" />
   <img alt="Applescript" src="https://img.shields.io/badge/Applescript-violet?logo=apple&logoColor=white&style=flat" />
