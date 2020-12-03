@@ -51,10 +51,10 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 </p>
 
 <hr/>
-
-![All Stats](https://github-readme-stats.vercel.app/api?username=joe-sharp&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&theme=dark&title_color=007bff)
-
+<p align="center">
+<img alt="All Stats" src="https://github-readme-stats.vercel.app/api?username=joe-sharp&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats" >
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&theme=dark&title_color=007bff" >
+</p>
 <hr/>
 
 <!--
