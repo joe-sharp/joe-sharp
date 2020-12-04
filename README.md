@@ -36,7 +36,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-orange?logo=arduino&logoColor=white&style=flat" />
   <img alt="Git" src="https://img.shields.io/badge/Git-yellow?logo=git&logoColor=white&style=flat" />
   <img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-green?logo=sublime-text&logoColor=white&style=flat" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgresSQL-blue?logo=postgresql&logoColor=white&style=flat" />
+  <img alt="PostgrSQL" src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-blueviolet?logo=jquery&logoColor=white&style=flat" />
   <img alt="Capybara/Selenium" src="https://img.shields.io/badge/Capybara&#47;Selenium-violet?logo=selenium&logoColor=white&style=flat" />
   <img alt="Sikuli" src="https://img.shields.io/badge/Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
