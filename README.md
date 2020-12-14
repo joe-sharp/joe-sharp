@@ -2,7 +2,7 @@
 I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages.
 - 😄 : My Pronouns are 'he' and 'him'
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
-- 🔭 : I’m currently working on establishing more of a web presence and updating my online portfolio & webpages.
+- 🔭 : I’m currently working on some side projects and getting old code uploaded to GitHub.
 - 🌱 : I’m currently learning Vue.js, Rails, Jekyll, and Kubernetes
 - 🌎 : Personal Website: https://joe-sharp.com
 - 📫 : How to reach me: <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A"> Email me </a> or use any of the links below.
