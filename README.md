@@ -52,7 +52,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 
 <hr/>
 <p align="center">
-<img alt="widget displaying Joe Sharp's github stats" src="https://github-readme-stats.vercel.app/api?username=joe-sharp&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats" >
+<img alt="widget displaying Joe Sharp's github stats" src="https://github-readme-stats.vercel.app/api?username=joe-sharp&hide=stars&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats" >
 <img alt="widget displaying a graph of Joe Sharp's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&theme=dracula&title_color=007bff" >
 </p>
 
