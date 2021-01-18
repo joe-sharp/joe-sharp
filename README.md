@@ -2,22 +2,18 @@
 I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages.
 - 😄 : My Pronouns are 'he' and 'him'
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
-- 🔭 : I’m currently working on some side projects and getting old code uploaded to GitHub.
-- 🌱 : I’m currently learning Vue.js, Rails, Jekyll, and Kubernetes. I am also now learning the Colemak keyboard layout!
+- 🔭 : I’m currently working on some side projects and upgrading old code and libraries.
+- 🌱 : I’m currently learning Vue.js, Rails, Jekyll, and Vim.
+- 🤔 I’m looking for help with Vim.
 - 🌎 : Personal Website: https://joe-sharp.com
 - 📫 : How to reach me: <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A"> Email me </a> or use any of the links below.
 
 <p align="center">
-<a href="https://github.com/joe-sharp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
-  &nbsp;
-<a href="https://joe-sharp.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="netlify" height="30" width="30" /></a>
-  &nbsp;
-<a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
-  &nbsp;
-<a href="https://www.reddit.com/u/joe-sharp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="reddit" height="30" width="30" /></a>
-  &nbsp;
-<a href="https://www.linkedin.com/in/joesharp13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  &nbsp;
+<a href="https://github.com/joe-sharp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a> &nbsp;
+<a href="https://joe-sharp.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="netlify" height="30" width="30" /></a> &nbsp;
+<a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30" /></a> &nbsp;
+<a href="https://www.reddit.com/u/joe-sharp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="reddit" height="30" width="30" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/joesharp13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a> &nbsp;
 <a href="https://teamtreehouse.com/joesharp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/treehouse.svg" alt="treehouse" height="30" width="30" /></a>
 </p>
 
@@ -38,7 +34,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-green?logo=sublime-text&logoColor=white&style=flat" />
   <img alt="PostgrSQL" src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-blueviolet?logo=jquery&logoColor=white&style=flat" />
-  <img alt="Capybara/Selenium" src="https://img.shields.io/badge/Capybara&#47;Selenium-violet?logo=selenium&logoColor=white&style=flat" />
+  <img alt="Selenium/Capybara" src="https://img.shields.io/badge/Selenium&#47;Capybara-violet?logo=selenium&logoColor=white&style=flat" />
   <img alt="Sikuli" src="https://img.shields.io/badge/Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-red?logo=netlify&logoColor=white&style=flat" />
   <img alt="OS X" src="https://img.shields.io/badge/OS%20X-orange?logo=apple&logoColor=white&style=flat" />
