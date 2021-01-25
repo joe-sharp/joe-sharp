@@ -1,10 +1,11 @@
-### Hey y'all! 👋🏼<p><img align="right" src="https://github.com/joe-sharp/joe-sharp/blob/main/joe-wave.png" alt="Joe Sharp waving wearing a wizard hat"/></p>
+### Hey y'all! 👋🏼<p><img align="right" src="https://github.com/joe-sharp/joe-sharp/blob/main/joe-wave.png" alt="Joe Sharp waving, wearing a wizard hat"/></p>
 I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages.
 - 😄 : My Pronouns are 'he' and 'him'
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
-- 🔭 : I’m currently working on some side projects and upgrading old code and libraries.
+- 🔭 : I’m currently unifying all my configurations and creating a remote development environment.
 - 🌱 : I’m currently learning Vue.js, Rails, Jekyll, and Vim.
 - 🤔 I’m looking for help with Vim.
+- 💬 Ask me about typing in [Colemak-DHm](https://colemakmods.github.io/mod-dh/)
 - 🌎 : Personal Website: https://joe-sharp.com
 - 📫 : How to reach me: <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A"> Email me </a> or use any of the links below.
 
@@ -22,7 +23,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 <p align="center">
   <img alt="Applescript" src="https://img.shields.io/badge/Applescript-000000?logo=apple&logoColor=white&style=flat" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat" />
-  <img alt="AutoHotKey" src="https://img.shields.io/badge/AutoHotKey-inactive?logo=autohotkey&logoColor=white&style=flat" />
+  <img alt="AutoHotKey" src="https://img.shields.io/badge/🄰%20AutoHotKey-inactive?logo=autohotkey&logoColor=white&style=flat" />
   <img alt="Bash/ZSH" src="https://img.shields.io/badge/Bash&#47;ZSH-4EAA25?logo=gnu-bash&logoColor=white&style=flat" />
   <img alt="BSD/Darwin" src="https://img.shields.io/badge/BSD&#47;Darwin-AB2B28?logo=freebsd&logoColor=white&style=flat" />
   <img alt="CSS/Sass" src="https://img.shields.io/badge/CSS&#47;Sass-1572B6?logo=css3&logoColor=white&style=flat" />
@@ -41,7 +42,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
   <img alt="Selenium/Capybara" src="https://img.shields.io/badge/Selenium&#47;Capybara-43B02A?logo=selenium&logoColor=white&style=flat" />
-  <img alt="Sikuli" src="https://img.shields.io/badge/Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
+  <img alt="Sikuli" src="https://img.shields.io/badge/⟐%20Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
   <img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-FF9800?logo=sublime-text&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
