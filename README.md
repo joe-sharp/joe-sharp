@@ -24,7 +24,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Applescript" src="https://img.shields.io/badge/Applescript-000000?logo=apple&logoColor=white&style=flat" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat" />
   <img alt="AutoHotKey" src="https://img.shields.io/badge/🄰%20AutoHotKey-inactive?logo=autohotkey&logoColor=white&style=flat" />
-  <img alt="Bash/ZSH" src="https://img.shields.io/badge/Bash&#47;ZSH-4EAA25?logo=gnu-bash&logoColor=white&style=flat" />
+  <img alt="Bash/Zsh" src="https://img.shields.io/badge/Bash&#47;ZSH-4EAA25?logo=gnu-bash&logoColor=white&style=flat" />
   <img alt="BSD/Darwin" src="https://img.shields.io/badge/BSD&#47;Darwin-AB2B28?logo=freebsd&logoColor=white&style=flat" />
   <img alt="CSS/Sass" src="https://img.shields.io/badge/CSS&#47;Sass-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
