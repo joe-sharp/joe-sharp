@@ -42,7 +42,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
   <img alt="Selenium/Capybara" src="https://img.shields.io/badge/Selenium&#47;Capybara-43B02A?logo=selenium&logoColor=white&style=flat" />
-  <img alt="Sikuli" src="https://img.shields.io/badge/⟐%20Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
+  <img alt="Sikuli" src="https://img.shields.io/badge/◈%20Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
   <img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-FF9800?logo=sublime-text&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
