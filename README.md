@@ -4,8 +4,8 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
 - 🔭 : I’m currently unifying all my configurations and creating a remote development environment.
 - 🌱 : I’m currently learning Vue.js, Rails, Jekyll, and Vim.
-- 🤔 I’m looking for help with Vim.
-- 💬 Ask me about typing in [Colemak-DHm](https://colemakmods.github.io/mod-dh/)
+- 🤔 : I’m looking for help with Vim.
+- 💬 : Ask me about typing in [Colemak-DHm](https://colemakmods.github.io/mod-dh/)
 - 🌎 : Personal Website: https://joe-sharp.com
 - 📫 : How to reach me: <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A"> Email me </a> or use any of the links below.
 
