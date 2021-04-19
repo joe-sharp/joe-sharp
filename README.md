@@ -25,7 +25,6 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat" />
   <img alt="AutoHotKey" src="https://img.shields.io/badge/AutoHotKey-334455?logo=autohotkey&logoColor=white&style=flat" />
   <img alt="Bash/Zsh" src="https://img.shields.io/badge/Bash&#47;ZSH-4EAA25?logo=gnu-bash&logoColor=white&style=flat" />
-  <img alt="BSD/Darwin" src="https://img.shields.io/badge/BSD&#47;Darwin-AB2B28?logo=freebsd&logoColor=white&style=flat" />
   <img alt="CSS/Sass" src="https://img.shields.io/badge/CSS&#47;Sass-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
@@ -33,8 +32,6 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white&style=flat" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat" />
   <img alt="JSON/XML/YAML" src="https://img.shields.io/badge/JSON&#47;XML&#47;YAML-000000?logo=json&logoColor=white&style=flat" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-003764?logo=linux&logoColor=white&style=flat" />
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
   <img alt="PostgrSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
@@ -44,7 +41,6 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Selenium/Capybara" src="https://img.shields.io/badge/Selenium&#47;Capybara-43B02A?logo=selenium&logoColor=white&style=flat" />
   <img alt="Sikuli" src="https://img.shields.io/badge/◈%20Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
   <img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-FF9800?logo=sublime-text&logoColor=white&style=flat" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
 <hr/>
