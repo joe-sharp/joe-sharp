@@ -1,4 +1,4 @@
-### Hey y'all! 👋🏼<p><img width=400px align="right" src="https://github.com/joe-sharp/joe-sharp/blob/main/joe-wave2.png" alt="Joe Sharp waving, wearing a wizard hat"/></p>
+### Hey y'all! 👋🏼<p><img width=400px align="right" src="https://github.com/joe-sharp/joe-sharp/blob/main/joe-wave.png" alt="Joe Sharp waving, wearing a wizard hat"/></p>
 I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages. 🩷💜💙
 - 😄 : My Pronouns are 'he' and 'him'
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
@@ -19,7 +19,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 <a href="https://instagram.com/joe.da.cat" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/instagram-icon.svg" alt="instagram logo" height="30" width="30" /></a>
 </p>
 
-
+<br/>
 <hr/>
 
 <p align="center">
