@@ -1,10 +1,10 @@
 ### Hey y'all! 👋🏼<p><img align="right" src="https://github.com/joe-sharp/joe-sharp/blob/main/joe-wave.png" alt="Joe Sharp waving, wearing a wizard hat"/></p>
-I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages.
+I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages. 🩷💜💙
 - 😄 : My Pronouns are 'he' and 'him'
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
-- 🔭 : I’m currently travelling to tattoo conventions.
-- 🌱 : I’m currently learning React, Gatsby, and Vim.
-- 🤔 : I’m looking for help with React.
+- 🔭 : I’m awaiting my next adventure to Mexico.
+- 🌱 : I’m currently learning Prompt Engineering, Cursor, and other AI related stuff.
+- 🤔 : I’m looking for help with MCP and AI.
 - 💬 : Ask me about typing in [Colemak-DHm](https://colemakmods.github.io/mod-dh/)
 - 🌎 : Personal Website: https://joe-sharp.com
 - 📫 : How to reach me: <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A"> Email me </a> or use any of the links below.
@@ -15,7 +15,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 <a href="https://www.reddit.com/u/joe-sharp/" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/reddit.svg" alt="reddit" height="30" width="30" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/joesharp13/" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/linkedin.svg" alt="linkedin" height="30" width="30" /></a> &nbsp;
 <a href="https://teamtreehouse.com/joesharp" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/treehouse.svg" alt="treehouse" height="30" width="30" /></a> &nbsp;
-<a href="https://instagram.com/joesharpskates" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/instagram-icon.svg" alt="instagram" height="30" width="30" /></a>
+<a href="https://instagram.com/joe.da.cat" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/instagram-icon.svg" alt="instagram" height="30" width="30" /></a>
 </p>
 
 <hr/>
