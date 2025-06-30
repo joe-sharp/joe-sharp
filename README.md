@@ -1,4 +1,4 @@
-### Hey y'all! 👋🏼<p><img width=300px align="right" src="https://github.com/joe-sharp/joe-sharp/blob/main/joe-wave.png" alt="Joe Sharp waving, wearing a wizard hat"/></p>
+### Hey y'all! 👋🏼<p><img width=400px align="right" src="https://github.com/joe-sharp/joe-sharp/blob/main/joe-wave.png" alt="Joe Sharp waving, wearing a wizard hat"/></p>
 I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages. 🩷💜💙
 - 😄 : My Pronouns are 'he' and 'him'
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
@@ -9,6 +9,8 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 - 🌎 : Personal Website: https://joe-sharp.com
 - 📫 : How to reach me: <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A"> Email me </a> or use any of the links below.
 
+<br/>
+<br/>
 <p align="center">
 <a href="https://joe-sharp.com" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/netlify.svg" alt="netlify" height="30" width="30" /></a> &nbsp;
 <a href="mailto:joesharp13@gmail.com?subject=Contact%20Joe%20Sharp&amp;body=Dear Joe Sharp,%0D%0A%0D%0A%0D%0A" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/gmail.svg" alt="gmail" height="30" width="30" /></a> &nbsp;
@@ -17,6 +19,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 <a href="https://teamtreehouse.com/joesharp" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/treehouse.svg" alt="treehouse" height="30" width="30" /></a> &nbsp;
 <a href="https://instagram.com/joe.da.cat" target="blank"><img align="center" src="https://github.com/joe-sharp/joe-sharp/blob/main/instagram-icon.svg" alt="instagram" height="30" width="30" /></a>
 </p>
+
 
 <hr/>
 
