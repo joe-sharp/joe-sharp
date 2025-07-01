@@ -26,20 +26,12 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
   <img alt="Applescript" src="https://img.shields.io/badge/Applescript-000000?logo=apple&logoColor=white&style=flat" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat" />
   <img alt="AutoHotKey" src="https://img.shields.io/badge/AutoHotKey-334455?logo=autohotkey&logoColor=white&style=flat" />
-  <img alt="Bash/Zsh" src="https://img.shields.io/badge/Bash&#47;ZSH-4EAA25?logo=gnu-bash&logoColor=white&style=flat" />
-  <img alt="CSS/Sass" src="https://img.shields.io/badge/CSS&#47;Sass-1572B6?logo=css3&logoColor=white&style=flat" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-339933?logo=javascript&logoColor=white&style=flat" />
   <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white&style=flat" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat" />
-  <img alt="JSON/XML/YAML" src="https://img.shields.io/badge/JSON&#47;XML&#47;YAML-000000?logo=json&logoColor=white&style=flat" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-  <img alt="PostgrSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" />
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
   <img alt="Selenium/Capybara" src="https://img.shields.io/badge/Selenium&#47;Capybara-43B02A?logo=selenium&logoColor=white&style=flat" />
   <img alt="Sikuli" src="https://img.shields.io/badge/◈%20Sikuli-inactive?logo=sikuli&logoColor=white&style=flat" />
   <img alt="SublimeText" src="https://img.shields.io/badge/SublimeText-FF9800?logo=sublime-text&logoColor=white&style=flat" />
@@ -47,8 +39,8 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 
 <hr/>
 <p align="center">
-<img alt="widget displaying Joe Sharp's github stats" src="https://github-readme-stats-five-beta-64.vercel.app/api?username=joe-sharp&hide=stars&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0000&text_color=777&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats" >
-<img alt="widget displaying a graph of Joe Sharp's most used languages" src="https://github-readme-stats-five-beta-64.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&hide_border=true&bg_color=0000&text_color=777&title_color=007bff&langs_count=8&hide=css,vim%20script" >
+<img valign="top" alt="widget displaying Joe Sharp's github stats" src="https://github-readme-stats-five-beta-64.vercel.app/api?username=joe-sharp&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=0000&text_color=777&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats" >
+<img valign="top" alt="widget displaying a graph of Joe Sharp's most used languages" src="https://github-readme-stats-five-beta-64.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&hide_progress=true&hide_border=true&bg_color=0000&text_color=777&title_color=007bff&langs_count=14" >
 </p>
 
 
