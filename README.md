@@ -47,8 +47,8 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 
 <hr/>
 <p align="center">
-<img alt="widget displaying Joe Sharp's github stats" src="https://github-readme-stats.vercel.app/api?username=joe-sharp&hide=stars&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0000&text_color=777&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats" >
-<img alt="widget displaying a graph of Joe Sharp's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&hide_border=true&bg_color=0000&text_color=777&title_color=007bff&langs_count=8&hide=css,vim%20script" >
+<img alt="widget displaying Joe Sharp's github stats" src="https://github-readme-stats-five-beta-64.vercel.app/api?username=joe-sharp&hide=stars&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0000&text_color=777&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats" >
+<img alt="widget displaying a graph of Joe Sharp's most used languages" src="github-readme-stats-five-beta-64.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&hide_border=true&bg_color=0000&text_color=777&title_color=007bff&langs_count=8&hide=css,vim%20script" >
 </p>
 
 
