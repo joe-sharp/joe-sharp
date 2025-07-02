@@ -3,7 +3,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 - 😄 : My Pronouns are 'he' and 'him'
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
 - 🔭 : I’m awaiting my next adventure to Mexico. 🇲🇽
-- 🌱 : I’m currently learning Prompt Engineering, Cursor, and other AI related stuff.
+- 🌱 : I’m currently learning Prompt Engineering, Cursor, and Google's ADK.
 - 🤔 : I’m looking for help with MCP and AI.
 - 💬 : Ask me about typing in [Colemak-DH](https://colemakmods.github.io/mod-dh/)
 - 🌎 : Personal Website: https://joe-sharp.com
