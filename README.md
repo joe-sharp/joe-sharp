@@ -1,4 +1,4 @@
-### Hey y'all! 👋🏼<p><a href="https://github.com/joe-sharp/mtg_card_maker"> <img width=300px align="right" src="https://raw.githubusercontent.com/joe-sharp/mtg_card_maker/ead6ce560f893ac463abd4ae49dd17f3d301868e/images/joe-sharp_card.png" alt="Joe Sharp waving, wearing a wizard hat"/></a></p>
+### Hey y'all! 👋🏼<p><a href="https://github.com/joe-sharp/mtg_card_maker"> <img width=300px align="right" src="https://raw.githubusercontent.com/joe-sharp/mtg_card_maker/refs/heads/main/images/joe-sharp_card.webp" alt="Joe Sharp waving, wearing a wizard hat"/></a></p>
 I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a variety of knowledge on other technologies & programming languages. 🩷💜💙
 - 😄 : My Pronouns are 'he' and 'him'
 - 🧙🏼‍♂️ : My Hogwarts House is Ravenclaw
