@@ -39,7 +39,7 @@ I'm a fullstack developer with expertise in Ruby, SublimeText, Unix/Linux and a 
 
 <hr/>
 <p align="center">
-<img valign="top" alt="widget displaying Joe Sharp's github stats" src="https://github-readme-stats-five-beta-64.vercel.app/api?username=joe-sharp&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=0000&text_color=777&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats" >
+<img valign="top" alt="widget displaying Joe Sharp's github stats" src="https://github-readme-stats-five-beta-64.vercel.app/api?username=joe-sharp&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=0000&text_color=777&icon_color=007bff&title_color=007bff&custom_title=GitHub%20Stats" >
 <img valign="top" alt="widget displaying a graph of Joe Sharp's most used languages" src="https://github-readme-stats-five-beta-64.vercel.app/api/top-langs/?username=joe-sharp&layout=compact&hide_progress=true&hide_border=true&bg_color=0000&text_color=777&title_color=007bff&langs_count=14" >
 </p>
 
